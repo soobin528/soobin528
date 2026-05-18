@@ -14,9 +14,31 @@ Backend · AI Service · FullStack Developer
 
 ---
 
+# 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=soobin528&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin528&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+# 🧩 Contribution
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=soobin528&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
 # 🧑‍💻 About Me
 
-
+- Python 기반 백엔드 및 AI 서비스 개발에 관심이 있습니다.
+- FastAPI, PostgreSQL, Redis 기반 실시간 서비스 개발 경험이 있습니다.
+- React / TypeScript / TailwindCSS 기반 프론트엔드 개발 경험이 있습니다.
+- 현재 LLM, RAG, Agent 시스템을 학습하며 AI 서비스 개발 역량을 확장하고 있습니다.
+- 기능 구현뿐 아니라 구조와 데이터 흐름을 이해하고 기록하는 개발을 지향합니다.
 
 ---
 
@@ -88,6 +110,7 @@ Backend · AI Service · FullStack Developer
 # 🚀 Featured Projects
 
 ## 📍 MeetPoint
+
 실시간 위치 기반 모임 생성 및 중간지점 추천 플랫폼
 
 - SSE 기반 실시간 이벤트 처리
@@ -95,11 +118,12 @@ Backend · AI Service · FullStack Developer
 - Redis Pub/Sub 활용
 - 동시성 제어 및 비관적 락 적용
 
-🔗 Repository : [MeetPoint]https://github.com/soobin528/meetpoint
+🔗 Repository : [MeetPoint](https://github.com/soobin528/meetpoint)
 
 ---
 
 ## ⚾ Ballog
+
 KBO 직관 경험 기록 서비스
 
 - 레트로 감성 티켓 UI
@@ -107,47 +131,52 @@ KBO 직관 경험 기록 서비스
 - 경기 기반 자동 일기 생성 구조
 - 모바일 중심 UX 설계
 
-🔗 Repository : [Ballog] https://github.com/soobin528/ballog
+🔗 Repository : [Ballog](https://github.com/soobin528/ballog)
 
 ---
 
 ## 🔐 Phishing URL Detection
+
 머신러닝 기반 피싱 URL 탐지 서비스
 
 - TF-IDF + URL 구조 Feature Engineering
 - Flask 기반 예측 API
 - 위험도 시각화 UI 구현
 
-🔗 Repository : [Phishing URL Detection]https://github.com/soobin528/phishblock
+🔗 Repository : [Phishing URL Detection](https://github.com/soobin528/phishblock)
 
 ---
 
-### 📜 Certificates
+# 🏅 Achievement
+
+- 호천학술장학재단 장학생 선정
+- 호주 IT 기업 및 대학 전공 연수 수료
+- 학생회 기획부장 / 부학회장 활동
+- 졸업작품 대표 발표 경험
+- 해커톤 및 팀 프로젝트 경험
+
+---
+
+# 📜 Certificates
 
 - 정보처리기사 (필기 합격)
 - 정보처리산업기사
 
 ---
 
-# 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soobin528&show_icons=true&theme=tokyonight" height="180"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin528&layout=compact&theme=tokyonight" height="180"/>
-</p>
-
----
-
 # 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soobin528&theme=tokyo-night)](https://github.com/https://github.com/soobin528)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soobin528&theme=tokyo-night&hide_border=true"/>
+</p>
 
 ---
 
 # 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=soobin528(https://github.com/soobin528)&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=soobin528&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
 
 ---
 
