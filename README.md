@@ -9,11 +9,11 @@ Backend · AI Service · FullStack Developer
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=26&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;AI+%2F+RAG+Service+Developer;FastAPI+%7C+React+%7C+TypeScript;Always+Learning+New+Things" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=26&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;AI+%2F+RAG+Service+Developer;FastAPI+%7C+React+%7C+TypeScript;LLM+%7C+RAG+%7C+AI+Application;Always+Learning+New+Things" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=soobin528&label=Profile%20Views&color=58A6FF&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=soobin528&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -21,13 +21,14 @@ Backend · AI Service · FullStack Developer
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=soobin528&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin528&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=soobin528&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=soobin528&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-# 🧩 Contribution
+# 🔥 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=soobin528&theme=tokyonight&hide_border=true"/>
@@ -35,11 +36,32 @@ Backend · AI Service · FullStack Developer
 
 ---
 
+# 📌 Profile Summary
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=soobin528&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=soobin528&theme=tokyonight"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=soobin528&theme=tokyonight"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=soobin528&theme=tokyonight"/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=soobin528&theme=tokyonight&utcOffset=9"/>
+</p>
+
+---
+
 # 🧑‍💻 About Me
 
 - Python 기반 백엔드 및 AI 서비스 개발에 관심이 있습니다.
+- 실시간 데이터 처리와 사용자 경험을 연결하는 서비스 개발을 좋아합니다.
 - FastAPI, PostgreSQL, Redis 기반 실시간 서비스 개발 경험이 있습니다.
-- React / TypeScript / TailwindCSS 기반 프론트엔드 개발 경험이 있습니다.
+- React / TypeScript 기반 프론트엔드 개발 경험이 있습니다.
 - 현재 LLM, RAG, Agent 시스템을 학습하며 AI 서비스 개발 역량을 확장하고 있습니다.
 - 기능 구현뿐 아니라 구조와 데이터 흐름을 이해하고 기록하는 개발을 지향합니다.
 
@@ -110,26 +132,27 @@ Backend · AI Service · FullStack Developer
 
 ---
 
-# 🚀 Featured Projects
-
-## 📌 Repository Cards
+# 🚀 Featured Repository
 
 <p align="center">
   <a href="https://github.com/soobin528/meetpoint">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soobin528&repo=meetpoint&theme=tokyonight&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=soobin528&repo=meetpoint&theme=tokyonight&hide_border=true"/>
   </a>
+
   <a href="https://github.com/soobin528/ballog">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soobin528&repo=ballog&theme=tokyonight&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=soobin528&repo=ballog&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/soobin528/phishblock">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soobin528&repo=phishblock&theme=tokyonight&hide_border=true" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/pin/?username=soobin528&repo=phishblock&theme=tokyonight&hide_border=true"/>
   </a>
 </p>
 
-## 📍 MeetPoint
+---
+
+# 📍 MeetPoint
 
 실시간 위치 기반 모임 생성 및 중간지점 추천 플랫폼
 
@@ -142,7 +165,7 @@ Backend · AI Service · FullStack Developer
 
 ---
 
-## ⚾ Ballog
+# ⚾ Ballog
 
 KBO 직관 경험 기록 서비스
 
@@ -155,7 +178,7 @@ KBO 직관 경험 기록 서비스
 
 ---
 
-## 🔐 Phishing URL Detection
+# 🔐 Phishing URL Detection
 
 머신러닝 기반 피싱 URL 탐지 서비스
 
