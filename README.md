@@ -12,13 +12,16 @@ Backend · AI Service · FullStack Developer
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&size=26&center=true&vCenter=true&width=700&lines=Python+Backend+Developer;AI+%2F+RAG+Service+Developer;FastAPI+%7C+React+%7C+TypeScript;Always+Learning+New+Things" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=soobin528&label=Profile%20Views&color=58A6FF&style=flat" />
+</p>
+
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=soobin528&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin528&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -109,6 +112,23 @@ Backend · AI Service · FullStack Developer
 
 # 🚀 Featured Projects
 
+## 📌 Repository Cards
+
+<p align="center">
+  <a href="https://github.com/soobin528/meetpoint">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soobin528&repo=meetpoint&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/soobin528/ballog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soobin528&repo=ballog&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/soobin528/phishblock">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=soobin528&repo=phishblock&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 ## 📍 MeetPoint
 
 실시간 위치 기반 모임 생성 및 중간지점 추천 플랫폼
@@ -159,24 +179,8 @@ KBO 직관 경험 기록 서비스
 
 # 📜 Certificates
 
-- 정보처리기사 (필기 합격)
+- 정보처리기사 필기 합격
 - 정보처리산업기사
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=soobin528&theme=tokyo-night&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophy
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=soobin528&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
 
 ---
 
