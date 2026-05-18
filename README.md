@@ -147,7 +147,7 @@ KBO 직관 경험 기록 서비스
 
 # 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=깃허브아이디&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=[깃허브아이디](https://github.com/soobin528)&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
