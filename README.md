@@ -132,22 +132,22 @@ KBO 직관 경험 기록 서비스
 # 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=https://github.com/soobin528&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=soobin528&show_icons=true&theme=tokyonight" height="180"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/soobin528&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soobin528&layout=compact&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
 # 📈 Activity Graph
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=https://github.com/soobin528&theme=tokyo-night)](https://github.com/https://github.com/soobin528)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=soobin528&theme=tokyo-night)](https://github.com/https://github.com/soobin528)
 
 ---
 
 # 🏆 GitHub Trophy
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=[깃허브아이디](https://github.com/soobin528)&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=soobin528(https://github.com/soobin528)&theme=tokyonight&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
