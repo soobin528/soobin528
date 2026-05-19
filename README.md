@@ -47,9 +47,9 @@ class Developer:
         return "빠르게 만들되, 구조와 흐름을 끝까지 이해하자."
 ```
 
+- 배우는 것을 좋아합니다.
 - Python 기반 백엔드 및 AI 서비스 개발에 관심이 있습니다.
 - FastAPI, PostgreSQL, Redis 기반 실시간 서비스 개발 경험이 있습니다.
-- React / TypeScript 기반 프론트엔드 개발 경험이 있습니다.
 - 현재 LangChain 기반 RAG / Agent 시스템을 학습 중입니다.
 - 기능 구현뿐 아니라 구조와 데이터 흐름을 이해하고 기록하는 개발을 지향합니다.
 
@@ -111,17 +111,21 @@ class Developer:
 
 ---
 
-### 🤖 AI / Collaboration
+### 🤖 AI (Always Learning)
 
 <p>
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/LLM-8E44AD?style=for-the-badge"/>
 
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+</p>
 
+###  Collaboration
+
+  <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
@@ -131,7 +135,7 @@ class Developer:
 
 ---
 
-# 🚀 Featured Projects
+# 🚀  Projects
 
 <table>
 <tr>
@@ -244,16 +248,6 @@ https://github.com/soobin528/phishblock
 
 ---
 
-# 🏅 Achievement
-
-- 🏆 호천학술장학재단 장학생 선정
-- 🇦🇺 호주 IT 기업 및 대학 전공 연수 수료
-- 👨‍💼 학생회 기획부장 / 부학회장 활동
-- 🎤 졸업작품 대표 발표 경험
-- 💡 해커톤 및 팀 프로젝트 경험
-
----
-
 # 📜 Certificates
 
 - 정보처리기사 필기 합격
@@ -263,13 +257,12 @@ https://github.com/soobin528/phishblock
 
 # 📫 Contact
 
-- 📧 Email : 이메일주소
-- 📚 Portfolio / Notion : 링크
+- 📧 Email : monbebe.sue@gmail.com
+- 📚 Portfolio : https://acidic-season-abc.notion.site/Song-Soo-Bin-a983ebd26b27835288b081fa40c265eb?source=copy_link
 - 🐙 GitHub : https://github.com/soobin528
 
 ---
 
 # ✨ Motto
 
-> 빠르게 만들되,  
 > 구조와 흐름을 끝까지 이해하는 개발자가 되고 싶습니다.
